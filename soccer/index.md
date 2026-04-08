@@ -8,7 +8,7 @@ MTL Soccer serves over 1,000 children in West Orange across spring, summer, and
 fall seasons. Our recreational program emphasizes sportsmanship and fostering a
 love for the game through volunteer coaches and commissioners.
 
-## Find Your Program
+## Find Your Program Or Resource
 
 <div class="picker-grid">
   <a href="{{ site.baseurl }}/soccer/little-kickers/" class="picker-card">
