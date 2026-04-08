@@ -78,12 +78,12 @@ maps of each site.
 
 ### Game Day Checklist
 
-- [ ] Arrive at least 10-15 minutes early
-- [ ] Bring the team bag (uniforms if not yet distributed, first aid supplies)
-- [ ] Bring extra water in case a player forgets theirs
-- [ ] Check the field for hazards (sticks, rocks, debris)
-- [ ] Confirm player count with the opposing coach
-- [ ] Have fun — keep it positive and encouraging
+- Arrive at least 10-15 minutes early
+- Bring the team bag (uniforms if not yet distributed, first aid supplies)
+- Bring extra water in case a player forgets theirs
+- Check the field for hazards (sticks, rocks, debris)
+- Confirm player count with the opposing coach
+- Have fun — keep it positive and encouraging
 
 ---
 

@@ -27,6 +27,8 @@ The Little Kickers format is simplified to keep the game moving:
 - **No corner kicks, goal kicks, free kicks, or throw-ins**
 - If the ball goes out of bounds, restart with a **kick-in or dribble-in**
 
+Note that the field bounds are really more like suggestions at this age - the kids will run right past them and it is OK to let them keep going a bit rather than disrupt play immediately.
+
 ## Scoring
 
 - After a goal, the opposing team restarts at midfield
