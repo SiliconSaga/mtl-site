@@ -2,6 +2,7 @@
 layout: page
 title: "Stagg Field"
 permalink: /soccer/fields/stagg-field/
+printable: true
 ---
 
 Stagg Field is located in **Rahway River Park** on St. Cloud Avenue in

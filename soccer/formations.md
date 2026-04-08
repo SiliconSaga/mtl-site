@@ -2,6 +2,7 @@
 layout: page
 title: "Formations & Positions"
 permalink: /soccer/formations/
+printable: true
 ---
 
 Below are two recommended formations for **4v4 games** (1st/2nd Grade). Players

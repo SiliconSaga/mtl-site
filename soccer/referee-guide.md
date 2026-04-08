@@ -2,6 +2,7 @@
 layout: page
 title: "Referee Guide"
 permalink: /soccer/referee-guide/
+printable: true
 ---
 
 This guide covers referee responsibilities across all MTL Soccer age groups.

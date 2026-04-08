@@ -2,6 +2,7 @@
 layout: page
 title: "Game Day Guide"
 permalink: /soccer/game-day/
+printable: true
 ---
 
 A practical guide for parents and coaches on what to expect and what to bring.
