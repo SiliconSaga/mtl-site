@@ -172,7 +172,15 @@ main.container {
   font-weight: 600;
 }
 
-// Print button
+// Print button — hidden on mobile
+.print-only-hide {
+  display: none;
+
+  @media (min-width: 641px) {
+    display: block;
+  }
+}
+
 .print-btn {
   background: $mtl-blue;
   color: $mtl-white;
