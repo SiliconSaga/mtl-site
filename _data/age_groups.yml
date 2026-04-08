@@ -1,0 +1,93 @@
+little_kickers:
+  label: "Little Kickers"
+  slug: "little-kickers"
+  ages: "4-5"
+  grades: "Pre-K/K"
+  format: "4v4"
+  goalie: false
+  ball_size: "3 or 4"
+  field_length: "25-35 yards"
+  field_width: "15-25 yards"
+  goal_size: "4ft x 6ft"
+  game_duration: "25 min practice + 25 min game"
+  halves: null
+  halftime: null
+  referee: false
+  heading_allowed: false
+  throw_ins: false
+  corner_kicks: false
+  goal_kicks: false
+  free_kicks: false
+  offside: false
+  score_tracked: false
+
+first_second_grade:
+  label: "1st/2nd Grade"
+  slug: "4v4"
+  ages: "6-8"
+  grades: "1st-2nd"
+  format: "4v4"
+  goalie: false
+  ball_size: "3 or 4"
+  field_length: "25-35 yards"
+  field_width: "15-25 yards"
+  goal_size: "4ft x 6ft"
+  game_duration: "Two 20-minute halves"
+  halves: "20 min"
+  halftime: "3 min"
+  referee: true
+  heading_allowed: false
+  throw_ins: false
+  corner_kicks: true
+  goal_kicks: true
+  free_kicks: true
+  offside: false
+  score_tracked: false
+
+third_fourth_grade:
+  label: "3rd/4th Grade"
+  slug: "7v7-9v9"
+  ages: "8-10"
+  grades: "3rd-4th"
+  format: "7v7"
+  goalie: true
+  ball_size: "4 or 5"
+  field_length: "55-65 yards"
+  field_width: "35-45 yards"
+  goal_size: null
+  game_duration: "Two 25-minute halves"
+  halves: "25 min"
+  halftime: "3 min"
+  referee: true
+  heading_allowed: false
+  throw_ins: true
+  corner_kicks: true
+  goal_kicks: true
+  free_kicks: true
+  offside: false
+  score_tracked: true
+  leagues: "Sunday 3/4 Grade Coed, Sunday 3/5 Grade Girls"
+
+fifth_sixth_grade:
+  label: "5th/6th Grade"
+  slug: "7v7-9v9"
+  ages: "10-12"
+  grades: "5th-6th"
+  format: "9v9"
+  goalie: true
+  ball_size: "4 or 5"
+  field_length: "55-65 yards"
+  field_width: "35-45 yards"
+  goal_size: null
+  game_duration: "Two 25-minute halves"
+  halves: "25 min"
+  halftime: "3 min"
+  referee: true
+  heading_allowed: false
+  throw_ins: true
+  corner_kicks: true
+  goal_kicks: true
+  free_kicks: true
+  offside: false
+  score_tracked: true
+  leagues: "Sunday 5/6 Grade COED"

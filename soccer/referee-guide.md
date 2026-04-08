@@ -1,0 +1,55 @@
+---
+layout: page
+title: "Referee Guide"
+permalink: /soccer/referee-guide/
+---
+
+This guide covers referee responsibilities across all MTL Soccer age groups.
+
+## Before the Game
+
+- **Arrive early** — minimum 10 minutes before the start of the game
+- **Check the field** — ensure it is playable and clear of garbage, sticks,
+  rocks, or other hazards
+- **Check the goals** — ensure goal nets are fastened and goals are anchored
+  (7v7/9v9 fields use sand bags provided by the town)
+- **Introduce yourself** to both coaches
+- **Check each player** for shin guards and appropriate footwear (cleats are
+  not required)
+
+## During the Game
+
+- **Follow the play** — stay close to the action
+- **Project your voice** — explain to the players what they need to do and why
+  - Many players may not know the difference between a goal kick and a
+    corner kick — be patient and teach as you go
+- **Keep track of time**
+
+### Rules to Enforce
+
+| Rule | Little Kickers | 1st/2nd Grade | 3rd-6th Grade |
+|---|---|---|---|
+| **No goalies** | Enforce — encourage players to move | Enforce — encourage players to move | N/A — goalies are used |
+| **Goal kick positioning** | N/A — no goal kicks | Opposing team behind midfield | Opposing team behind midfield |
+| **No heading** | Enforce | Enforce | Enforce — indirect FK to opponents |
+| **Throw-ins** | N/A — use kick/dribble-ins | N/A — use kick/dribble-ins | Allow re-dos in first 2 weeks |
+| **Positions** | Gently encourage movement | Ensure kids line up in positions | Standard play |
+
+### Score Tracking (7v7 / 9v9 only)
+
+- Keep track of the score during the game
+- Confirm the final result with each coach after the game
+- Report the final score to
+  [MTLsoccer@gmail.com](mailto:MTLsoccer@gmail.com) by Sunday evening
+
+## After the Game
+
+- Report any injuries, player issues, or coach issues to
+  [MTLsoccer@gmail.com](mailto:MTLsoccer@gmail.com)
+
+## Key Principles
+
+- **Be patient** — these are kids learning the game
+- **Be educational** — explain calls, don't just make them
+- **Be consistent** — enforce the same rules every game
+- Create a **fun and safe environment** for all players

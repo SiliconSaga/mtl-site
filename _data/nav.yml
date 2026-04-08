@@ -1,0 +1,21 @@
+- title: Home
+  url: /
+
+- title: About Us
+  url: /about/
+
+- title: Sports
+  children:
+    - title: Baseball
+      url: /baseball/
+    - title: Basketball
+      url: /basketball/
+    - title: Hockey
+      url: /hockey/
+    - title: Soccer
+      url: /soccer/
+    - title: Softball
+      url: /softball/
+
+- title: Contact Us
+  url: /contact/

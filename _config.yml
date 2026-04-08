@@ -1,0 +1,26 @@
+title: Mountain Top League
+description: >-
+  The Mountain Top League is an all-volunteer organization which has served
+  the children of West Orange, NJ since it was founded in 1959.
+url: "https://siliconsaga.github.io"
+baseurl: "/mtl-site"
+
+permalink: pretty
+markdown: kramdown
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - vendor
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
