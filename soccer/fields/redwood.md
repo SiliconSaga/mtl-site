@@ -15,7 +15,19 @@ The image below shows the approximate layout of soccer fields at Redwood.
 
 ## Getting There
 
-**Address:** Redwood Field, West Orange, NJ
+**Address:** Redwood Elementary School, West Orange, NJ
+
+<div class="map-embed">
+  <iframe
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d753!2d-74.250916!3d40.8126793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3aaed3ca55f03%3A0x596845a7b8e0b532!2sRedwood%20Elementary%20School!5e0!3m2!1sen!2sus!4v1"
+    width="100%"
+    height="300"
+    style="border:0; border-radius:4px; margin: 1rem 0;"
+    allowfullscreen=""
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+</div>
 
 ## Tips for Parents
 

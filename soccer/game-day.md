@@ -16,6 +16,8 @@ The coach will provide a **uniform** for each player:
 - Shorts
 - Socks
 
+Sizing can be a little tricky - socks may be overly large and if your child is small or large for their age let the coach know early so they can arrange the uniform lineup better.
+
 For **Little Kickers**, the coach also provides **shin guards**. Older age
 groups (1st grade and up) are expected to have their own shin guards from
 earlier seasons or to purchase them.
@@ -49,9 +51,12 @@ league house to pick up a team bag for each team they coach:
 12 Old Indian Road, West Orange, NJ 07052
 
 The team bag contains:
+
 - **Uniforms** — jerseys, shorts, and socks for every player on your roster
 - **Shin guards** — for Little Kickers teams only
 - **Basic first aid supplies**
+
+Wait for an email for further instructions and the door code.
 
 ### Concussion Training
 
