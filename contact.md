@@ -43,5 +43,5 @@ For the latest on registration, schedules, and all MTL sports:
 
 ## Social Media
 
-Follow MTL on [Facebook](https://www.facebook.com/) and
-[Instagram](https://www.instagram.com/) for announcements and updates.
+Follow MTL on [Facebook](https://www.facebook.com/mountaintopleague) and
+[Instagram](https://www.instagram.com/mountain_top_league) for announcements and updates.
