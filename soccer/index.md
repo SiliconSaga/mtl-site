@@ -35,6 +35,10 @@ love for the game through volunteer coaches and commissioners.
     Formations
     <small>4v4 position diagrams</small>
   </a>
+  <a href="{{ site.baseurl }}/soccer/fields/" class="picker-card">
+    Field Locations
+    <small>Maps &amp; parking</small>
+  </a>
 </div>
 
 ## Registration
