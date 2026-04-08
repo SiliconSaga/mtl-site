@@ -24,8 +24,7 @@ earlier seasons or to purchase them.
 
 ### What You Need to Bring
 
-- **Cleats** — required for all players (it's OK to go without for the first
-  game or two if your child is new to the program)
+- **Cleats** — recommended but not required; sneakers are fine
 - **Water bottle** — staying hydrated is important, especially in warmer weather
 - **Soccer ball** — the right size for your age group (see below)
 - **Weather-appropriate clothing** — dress in layers for cooler days
