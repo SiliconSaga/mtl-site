@@ -12,6 +12,10 @@ locations used for soccer. Click a field for details, overhead map, and parking.
     Stagg Field
     <small>Rahway River Park &middot; St. Cloud Ave</small>
   </a>
+  <a href="{{ site.baseurl }}/soccer/fields/redwood/" class="picker-card">
+    Redwood Field
+    <small>West Orange</small>
+  </a>
 </div>
 
 More field locations will be added as they are confirmed for the current season.

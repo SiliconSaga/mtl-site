@@ -1,21 +1,26 @@
 - title: Home
   url: /
 
-- title: About Us
-  url: /about/
-
-- title: Sports
+- title: Rules
   children:
-    - title: Baseball
-      url: /baseball/
-    - title: Basketball
-      url: /basketball/
-    - title: Hockey
-      url: /hockey/
-    - title: Soccer
-      url: /soccer/
-    - title: Softball
-      url: /softball/
+    - title: Little Kickers
+      url: /soccer/little-kickers/
+    - title: 1st/2nd Grade (4v4)
+      url: /soccer/4v4/
+    - title: 3rd-6th Grade (7v7/9v9)
+      url: /soccer/7v7-9v9/
 
-- title: Contact Us
+- title: Guides
+  children:
+    - title: Referee Guide
+      url: /soccer/referee-guide/
+    - title: Game Day Guide
+      url: /soccer/game-day/
+    - title: Formations
+      url: /soccer/formations/
+
+- title: Fields
+  url: /soccer/fields/
+
+- title: Contact
   url: /contact/
