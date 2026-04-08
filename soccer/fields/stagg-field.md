@@ -41,8 +41,8 @@ exact field assignment.
 ## Parking
 
 - **North lot** — enter from St. Cloud Ave heading south; closest to the upper
-  fields and bathrooms
-- **South lot** — enter from St. Cloud Ave; closest to the lower fields
+  fields and bathrooms. Can be a tight fit.
+- **South lot** — enter from St. Cloud Ave; closest to the lower fields. Bit more spacious.
 
 ## Tips for Parents
 
