@@ -53,3 +53,9 @@ This guide covers referee responsibilities across all MTL Soccer age groups.
 - **Be educational** — explain calls, don't just make them
 - **Be consistent** — enforce the same rules every game
 - Create a **fun and safe environment** for all players
+
+## Reference Materials
+
+- [The Complete Guide To Small Sided Games (US Youth Soccer)](https://www.usyouthsoccer.org/wp-content/uploads/sites/160/2023/09/The-Complete-Guide-To-Small-Sided-Games.pdf)
+- [Player Development Initiatives FAQ (US Soccer)](https://cdn.ussoccer.com/-/media/project/ussf/migrated/files/coaches/player-dev-initiatives/pdi-2017aug-faq.ashx)
+- [Laws of the Game (IFAB)](https://www.theifab.com/laws-of-the-game/) — the official rules of soccer, updated annually

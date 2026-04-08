@@ -14,8 +14,9 @@ having fun and getting comfortable with the ball.
 ## Players
 
 - **4 players per side** — no goalie
-- Shin guards are **required**
-- Cleats are encouraged but not required
+- Shin guards are **required** — provided by the coach for Little Kickers
+- Cleats are **required** — it's OK to go without for the first game or two
+  if you're new
 - To limit kids sitting out, coaches may agree to play with a 5th player each
 
 ## Ball In and Out of Play

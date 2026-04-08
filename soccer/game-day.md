@@ -4,18 +4,30 @@ title: "Game Day Guide"
 permalink: /soccer/game-day/
 ---
 
-A practical guide for parents and coaches on what to expect and what to bring
-on game day.
+A practical guide for parents and coaches on what to expect and what to bring.
 
-## What to Bring
+## For Parents
 
-- **Shin guards** — required for all players
-- **Cleats** — recommended but not required; sneakers are fine
-- **Water bottle** — staying hydrated is important
-- **Weather-appropriate clothing** — dress in layers for cooler days
+### What Your Child Gets
+
+The coach will provide a **uniform** for each player:
+- Jersey
+- Shorts
+- Socks
+
+For **Little Kickers**, the coach also provides **shin guards**. Older age
+groups (1st grade and up) are expected to have their own shin guards from
+earlier seasons or to purchase them.
+
+### What You Need to Bring
+
+- **Cleats** — required for all players (it's OK to go without for the first
+  game or two if your child is new to the program)
+- **Water bottle** — staying hydrated is important, especially in warmer weather
 - **Soccer ball** — the right size for your age group (see below)
+- **Weather-appropriate clothing** — dress in layers for cooler days
 
-## Ball Sizes by Age Group
+### Ball Sizes by Age Group
 
 | Age Group | Ball Size |
 |---|---|
@@ -23,9 +35,53 @@ on game day.
 | 1st/2nd Grade (ages 6-8) | Size 3 or 4 |
 | 3rd-6th Grade (ages 8-12) | Size 4 or 5 |
 
-## More Details Coming Soon
+---
 
-Additional game-day information — including uniform distribution, field
-locations, and season schedules — will be added here as it becomes available.
+## For Coaches
 
-For questions, email [MTLsoccer@gmail.com](mailto:MTLsoccer@gmail.com).
+### Before the Season: Picking Up Your Team Bag
+
+Within the **last week or two before the first game**, coaches need to visit the
+league house to pick up a team bag for each team they coach:
+
+**MTL League House**
+12 Old Indian Road, West Orange, NJ 07052
+
+The team bag contains:
+- **Uniforms** — jerseys, shorts, and socks for every player on your roster
+- **Shin guards** — for Little Kickers teams only
+- **Basic first aid supplies**
+
+### Concussion Training
+
+Coaches will receive an email with a link to a **digital training course on
+concussions**. This is required — please complete it before the season starts.
+
+### Communicating with Your Team
+
+- **Message your team early** through TeamSnap to give parents a heads-up on
+  what to expect before the first game
+- Include practical details: what to bring, when to arrive, what the format
+  looks like
+- **Include an overhead photo** of the field location for the first game, with
+  the exact field your team will be playing on pointed out — this helps parents
+  who are new to the program find the right spot
+
+See the [Field Locations]({{ site.baseurl }}/soccer/fields/) page for overhead
+maps of each site.
+
+### Game Day Checklist
+
+- [ ] Arrive at least 10-15 minutes early
+- [ ] Bring the team bag (uniforms if not yet distributed, first aid supplies)
+- [ ] Bring extra water in case a player forgets theirs
+- [ ] Check the field for hazards (sticks, rocks, debris)
+- [ ] Confirm player count with the opposing coach
+- [ ] Have fun — keep it positive and encouraging
+
+---
+
+## Questions?
+
+Email [MTLsoccer@gmail.com](mailto:MTLsoccer@gmail.com) with any questions
+about game day logistics.
