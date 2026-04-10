@@ -16,13 +16,15 @@ Within the **last week or two before the first game**, coaches need to visit the
 league house to pick up a team bag for each team they coach:
 
 **MTL League House**
+
 12 Old Indian Road, West Orange, NJ 07052
 
 The team bag contains:
 
 - **Uniforms** — jerseys, shorts, and socks for every player on your roster
 - **Shin guards** — for Little Kickers and 1st/2nd Grade; extras may be available for older groups
-- **Basic first aid supplies**
+- **Basic first aid supplies** - be prepared and ready!
+- **Miscellaneous game items** (uninflated game ball, markers, etc.)
 
 Wait for an email for further instructions and the door code.
 
@@ -30,6 +32,11 @@ Wait for an email for further instructions and the door code.
 
 Coaches will receive an email with a link to a **digital training course on
 concussions**. This is required — please complete it before the season starts.
+
+### Background Check
+
+As a coach you'll be expected to have a background check done, by filling in a simple
+form online, and you'll be all set for multiple seasons.
 
 ### Communicating with Your Team
 
@@ -53,7 +60,7 @@ maps of each site.
 
 ## Sportsmanship
 
-Please familiarize yourself with the MTL Sportsmanship Agreement. Coaches set
+Please familiarize yourself with general sportsmanship expectations. Coaches set
 the tone — model positive behavior for players and parents. See the
 [Game Day Guide]({{ site.baseurl }}/soccer/game-day/) for parent conduct
 expectations you can share with your team.
@@ -63,8 +70,8 @@ expectations you can share with your team.
 - Hand out uniforms **before the session starts** so play can begin on time
 - Uniforms are the same as previous seasons — let parents know they can reuse
   shorts, socks, and shin guards from last season to avoid changing at the field
-- Sizing can be tricky — if a child is small or large for their age, arrange
-  the uniform lineup accordingly
+- Sizing can be tricky — ask parents if a child is small or large for their age,
+  and arrange the uniform lineup accordingly so we minimize risk of poor fits.
 
 ## Reporting
 
@@ -73,10 +80,10 @@ Any **parent issue, player issue, or injury** must be reported to
 
 ## Game Day Checklist
 
-- Arrive at least 10-15 minutes early
+- Arrive at least 10-15 minutes early (moreso for the first game)
 - Hand out uniforms if not yet distributed
-- Bring the team bag (first aid supplies)
-- Bring extra water in case a player forgets theirs
+- Bring the team bag (first aid supplies etc)
+- Consider bringing extra water in case a player forgets theirs
 - Check the field for hazards (sticks, rocks, debris)
 - Confirm player count with the opposing coach
 - Clean up — don't leave trash behind on the field

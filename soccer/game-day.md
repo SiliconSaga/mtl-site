@@ -49,6 +49,8 @@ be available — ask your coach if you need one.
 - **Soccer ball** — the right size for your age group (see below)
 - **Weather-appropriate clothing** — dress in layers for cooler days
 
+The fields can be muddy after rain — bring extra shoes if needed for after the game
+
 ### Ball Sizes by Age Group
 
 | Age Group | Ball Size |
@@ -80,8 +82,8 @@ conditions will immediately end any game.
 
 ### Parking
 
-Arrive early — parking is always challenging with hundreds of kids across programs.
-See the [Field Locations]({{ site.baseurl }}/soccer/fields/) page for
+- Arrive early — parking is often challenging with hundreds of kids across programs.
+- See the [Field Locations]({{ site.baseurl }}/soccer/fields/) page for
 parking details specific to each field.
 
 ### TeamSnap
@@ -97,7 +99,7 @@ guide for details.
 - **Do not go on the field** unless you are a head coach or assistant coach.
   If you would like to help, let us know and we will let you know what is
   required.
-  
+
 ### Share Your Photos
 
 Any pictures of the session you would like us to use on our

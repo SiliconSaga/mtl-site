@@ -11,6 +11,8 @@ Redwood Field is one of the sites used for MTL Soccer games in West Orange, NJ.
 
 The image below shows the approximate layout of soccer fields at Redwood.
 
+If needed a 4th field can be set up on the south-eastern side by Redwood Ave.
+
 ![Redwood Field overhead view]({{ site.baseurl }}/assets/images/redwood-field-overview.png)
 
 ## Getting There
@@ -31,10 +33,13 @@ The image below shows the approximate layout of soccer fields at Redwood.
 
 ## Parking
 
+- Enter the main field parking lot from Forest Ave near Nicholas Ave
 - **Adhere to all parking signs.** Parking on both sides of the street is not
   allowed — you will be ticketed and it is extremely dangerous.
 
 ## Tips for Parents
 
+- There is no bathroom building, just a porta-potty near the fields - plan accordingly
+  - Consider bringing and/or sharing wipes and hand sanitizer!
 - Check TeamSnap for your exact field assignment before heading out
-- **Arrive early** — parking is always challenging with hundreds of kids across programs
+- **Arrive early** — parking can be challenging with hundreds of kids across programs

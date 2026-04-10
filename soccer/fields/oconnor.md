@@ -9,20 +9,20 @@ O'Connor Park is one of the sites used for MTL Soccer games in West Orange, NJ.
 
 ## Field Overview
 
-The image below shows the approximate layout of soccer fields at O'Connor Park.
+The image below shows the approximate layout of the O'Connor park soccer field(s).
 
 ![O'Connor Park overhead view showing Field 1, parking, and playground]({{ site.baseurl }}/assets/images/oconnor-field-overview.png)
 
 ### Key Landmarks
 
-- **Parking** — at the south end of the park, off Burnett Terrace
-- **Playground** — located near the center of the park
+- **Parking** — at the south end of the park, shortly beyond the entrance
+- **Playground** — located by the southern edge of the park
 - **Field 1** — at the north end of the park
-- **Bathroom building** — currently closed
+- **Bathroom building** — unfortunately has been closed for years
 
 ## Getting There
 
-**Address:** O'Connor Park, West Orange, NJ
+**Address:** Entrance by the intersection of Ralph Road and Lorelei Road, West Orange, NJ
 
 <div class="map-embed">
   <iframe
@@ -38,10 +38,12 @@ The image below shows the approximate layout of soccer fields at O'Connor Park.
 
 ## Parking
 
-- Park in the lot at the south end, accessible from Burnett Terrace
+- Park in the lot at the south end (or carefully use street parking outside the park)
 
 ## Tips for Parents
 
 - The bathroom building has been closed for some time — plan accordingly
+  - There may be a porta-potty on the north side of the buildings
+  - Consider bringing and/or sharing wipes and hand sanitizer!
 - Check TeamSnap for your exact field assignment before heading out
-- Arrive early — parking can fill up when multiple games are scheduled
+- Arrive early — parking can fill up when multiple activities coincide

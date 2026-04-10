@@ -16,7 +16,7 @@ This guide covers referee responsibilities across all MTL Soccer age groups.
   (7v7/9v9 fields use sand bags provided by the town)
 - **Introduce yourself** to both coaches
 - **Check each player** for shin guards and appropriate footwear (cleats are
-  not required)
+  encouraged but not required)
 
 ## During the Game
 
@@ -32,7 +32,7 @@ This guide covers referee responsibilities across all MTL Soccer age groups.
 |---|---|---|---|
 | **No goalies** | Enforce — encourage players to move | Enforce — encourage players to move | N/A — goalies are used |
 | **Goal kick positioning** | N/A — no goal kicks | Opposing team behind midfield | Opposing team behind midfield |
-| **No heading** | Enforce | Enforce | Enforce — indirect FK to opponents |
+| **No heading** | Enforce | Enforce | Enforce — indirect free kick to opponents |
 | **Throw-ins** | N/A — use kick/dribble-ins | N/A — use kick/dribble-ins | Allow re-dos in first 2 weeks |
 | **Positions** | Gently encourage movement | Ensure kids line up in positions | Standard play |
 

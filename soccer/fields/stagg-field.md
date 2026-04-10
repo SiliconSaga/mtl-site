@@ -50,6 +50,5 @@ exact field assignment.
 ## Tips for Parents
 
 - **Arrive early** — parking is always challenging with hundreds of kids across programs
-- The fields can be muddy after rain — bring extra shoes for after the game
-- Bathrooms are at the north end near the tennis courts
+- Bathrooms are at the north end near the tennis courts / by the playground
 - Check TeamSnap for your exact field number before heading out
