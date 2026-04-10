@@ -7,6 +7,22 @@ printable: true
 
 A practical guide for parents and coaches on what to expect and what to bring.
 
+## Sportsmanship First
+
+MTL Soccer is a **recreational program** — the priority is safety, learning,
+and fun, in that order. Especially at the younger ages, most kids are touching
+a soccer ball for the first time. They're here to run around, make friends, and
+figure out which direction to kick.
+
+- **Cheer for effort**, not just goals — "great hustle!" matters more than the
+  score
+- **Encourage all the kids**, not just your own — a kind word from the sideline
+  goes a long way
+- **Let the coaches coach** and the referees ref — they're volunteers too
+- **Keep it positive** — kids pick up on adult frustration faster than you'd
+  think
+- **Win or lose, shake hands** — we're teaching life skills, not just soccer
+
 ## For Parents
 
 ### What Your Child Gets
@@ -17,6 +33,10 @@ The coach will provide a **uniform** for each player:
 - Socks
 
 Sizing can be a little tricky - socks may be overly large and if your child is small or large for their age let the coach know early so they can arrange the uniform lineup better.
+
+The uniforms are the same as previous seasons — if you have the shorts, socks,
+and shin guards from last season you can wear those to eliminate the need to
+change at the field.
 
 For **Little Kickers** and **1st/2nd Grade**, the coach also provides **shin
 guards**. Older age groups are expected to have their own, but extra pairs may
@@ -37,52 +57,66 @@ be available — ask your coach if you need one.
 | 1st/2nd Grade (ages 6-8) | Size 3 or 4 |
 | 3rd-6th Grade (ages 8-12) | Size 4 or 5 |
 
+### Cold Weather
+
+If your child is wearing a jacket while playing, it **must be zipped up and
+worn underneath the uniform**. We don't want another child getting hit with the
+zipper. Hoods should be **tucked into the back of the shirt** to prevent another
+child from pulling on it.
+
+### What's Not Allowed
+
+- **No baseball hats** — the brim can hit other children during play
+- **No dogs** on or around the field of play
+
+### Weather Cancellations
+
+MTL decides on weather cancellations at the **league level** — individual
+coaches and teams cannot cancel games. MTL will try to email within 45 minutes
+of the session time.
+
+**Games are played in the rain.** Thunder, lightning, and unsafe playing
+conditions will immediately end any game.
+
+### Parking
+
+Arrive early — parking is always challenging with hundreds of kids across programs.
+See the [Field Locations]({{ site.baseurl }}/soccer/fields/) page for
+parking details specific to each field.
+
+### TeamSnap
+
+Please **update your attendance for each session** in TeamSnap. This helps your
+coach plan the lineup. See the [Using TeamSnap]({{ site.baseurl }}/soccer/teamsnap/)
+guide for details.
+
+### Parent Conduct
+
+- **Do not ask coaches to switch your child's team.** Your child plays with the
+  team they were assigned to.
+- **Do not go on the field** unless you are a head coach or assistant coach.
+  If you would like to help, let us know and we will let you know what is
+  required.
+  
+### Share Your Photos
+
+Any pictures of the session you would like us to use on our
+[Instagram](https://www.instagram.com/mountain_top_league) /
+[Facebook](https://www.facebook.com/mountaintopleague) or website can be
+emailed to [MTLsoccer@gmail.com](mailto:MTLsoccer@gmail.com).
+
+### Field Care
+
+The town provides the fields — we are all responsible for cleaning up after
+ourselves. Please do not leave trash behind on the field.
+
 ---
 
 ## For Coaches
 
-### Before the Season: Picking Up Your Team Bag
-
-Within the **last week or two before the first game**, coaches need to visit the
-league house to pick up a team bag for each team they coach:
-
-**MTL League House**
-12 Old Indian Road, West Orange, NJ 07052
-
-The team bag contains:
-
-- **Uniforms** — jerseys, shorts, and socks for every player on your roster
-- **Shin guards** — for Little Kickers and 1st/2nd Grade; extras may be available for older groups
-- **Basic first aid supplies**
-
-Wait for an email for further instructions and the door code.
-
-### Concussion Training
-
-Coaches will receive an email with a link to a **digital training course on
-concussions**. This is required — please complete it before the season starts.
-
-### Communicating with Your Team
-
-- **Message your team early** through TeamSnap to give parents a heads-up on
-  what to expect before the first game
-- Include practical details: what to bring, when to arrive, what the format
-  looks like
-- **Include an overhead photo** of the field location for the first game, with
-  the exact field your team will be playing on pointed out — this helps parents
-  who are new to the program find the right spot
-
-See the [Field Locations]({{ site.baseurl }}/soccer/fields/) page for overhead
-maps of each site.
-
-### Game Day Checklist
-
-- Arrive at least 10-15 minutes early
-- Bring the team bag (uniforms if not yet distributed, first aid supplies)
-- Bring extra water in case a player forgets theirs
-- Check the field for hazards (sticks, rocks, debris)
-- Confirm player count with the opposing coach
-- Have fun — keep it positive and encouraging
+See the **[Coach Guide]({{ site.baseurl }}/soccer/coach-guide/)** for
+pre-season setup, team bag pickup, roster rules, uniform distribution,
+and the game day checklist.
 
 ---
 

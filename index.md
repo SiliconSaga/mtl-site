@@ -27,6 +27,10 @@ fall seasons, emphasizing sportsmanship and a love for the game.
     Referee Guide
     <small>All age groups</small>
   </a>
+  <a href="{{ site.baseurl }}/soccer/coach-guide/" class="picker-card">
+    Coach Guide
+    <small>Setup &amp; roster management</small>
+  </a>
   <a href="{{ site.baseurl }}/soccer/game-day/" class="picker-card">
     Game Day Guide
     <small>For parents &amp; coaches</small>
@@ -38,6 +42,10 @@ fall seasons, emphasizing sportsmanship and a love for the game.
   <a href="{{ site.baseurl }}/soccer/fields/" class="picker-card">
     Field Locations
     <small>Maps &amp; parking</small>
+  </a>
+  <a href="{{ site.baseurl }}/soccer/teamsnap/" class="picker-card">
+    Using TeamSnap
+    <small>Availability &amp; schedules</small>
   </a>
 </div>
 

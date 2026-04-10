@@ -29,7 +29,12 @@ The image below shows the approximate layout of soccer fields at Redwood.
   </iframe>
 </div>
 
+## Parking
+
+- **Adhere to all parking signs.** Parking on both sides of the street is not
+  allowed — you will be ticketed and it is extremely dangerous.
+
 ## Tips for Parents
 
 - Check TeamSnap for your exact field assignment before heading out
-- Arrive early — parking can fill up when multiple games are scheduled
+- **Arrive early** — parking is always challenging with hundreds of kids across programs

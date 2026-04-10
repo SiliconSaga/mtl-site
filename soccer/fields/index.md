@@ -16,6 +16,10 @@ locations used for soccer. Click a field for details, overhead map, and parking.
     Redwood Field
     <small>West Orange</small>
   </a>
+  <a href="{{ site.baseurl }}/soccer/fields/oconnor/" class="picker-card">
+    O'Connor Park
+    <small>West Orange</small>
+  </a>
 </div>
 
 More field locations will be added as they are confirmed for the current season.

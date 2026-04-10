@@ -44,10 +44,12 @@ exact field assignment.
 - **North lot** — enter from St. Cloud Ave heading south; closest to the upper
   fields and bathrooms. Can be a tight fit.
 - **South lot** — enter from St. Cloud Ave; closest to the lower fields. Bit more spacious.
+- **Do NOT park on the ramp/walkway behind the baseball field.** You will be
+  ticketed and it is extremely dangerous.
 
 ## Tips for Parents
 
-- Arrive early — parking can fill up when multiple games are scheduled
+- **Arrive early** — parking is always challenging with hundreds of kids across programs
 - The fields can be muddy after rain — bring extra shoes for after the game
 - Bathrooms are at the north end near the tennis courts
 - Check TeamSnap for your exact field number before heading out

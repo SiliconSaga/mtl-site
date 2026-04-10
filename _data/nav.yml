@@ -14,10 +14,14 @@
   children:
     - title: Referee Guide
       url: /soccer/referee-guide/
+    - title: Coach Guide
+      url: /soccer/coach-guide/
     - title: Game Day Guide
       url: /soccer/game-day/
     - title: Formations
       url: /soccer/formations/
+    - title: Using TeamSnap
+      url: /soccer/teamsnap/
 
 - title: Fields
   url: /soccer/fields/
